@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juan3lo
 - 👀 I’m interested in: 🀄🎵📲💻💡🌱😎👽🐶
-- 🌐 devjc.tech
+- 🌐 https://devjc.tech
 - 📫 If you are interested in my profile, contact me
 - 📧 juan3lo@devjc.tech
 
